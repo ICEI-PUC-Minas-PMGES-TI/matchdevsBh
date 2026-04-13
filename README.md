@@ -1,6 +1,6 @@
-# Nome do projeto
+# BH Works
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+
 
 ## Alunos integrantes da equipe
 
@@ -11,8 +11,9 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Diego Augusto de Farias Barros
+* Caroline Rhaian da Silva Jandre
+* 
 
 
 
