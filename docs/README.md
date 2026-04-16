@@ -153,6 +153,10 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 ### User Flow
 
 
+<<<<<<< HEAD
+=======
+![User Flow](user_flow.png)
+>>>>>>> dcd5e5eeb5e085c2492c413cd7e5c7ae861aa2be
 
 ![userflow](images/userflow.jpeg)
 
