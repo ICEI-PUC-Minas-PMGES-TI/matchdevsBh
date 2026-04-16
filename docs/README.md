@@ -91,9 +91,13 @@ Nosso público alvo são empresas com dificuldade de achar funcionarios e pessoa
 
 ## Proposta de Valor
 
-
+CARLOS HENRIQUE 
 ![proposta de valor](images/Carlos%20Henrique.png)
+
+JOÃO BERNADO 
 ![proposta de valor](images/joãobernado.png)
+
+OLIVIA RODRIGUES
 ![proposta de valor](images/OliviaRodrigues.png)
 
 
@@ -114,25 +118,7 @@ cadastro de usuário, duas telas de login(empresas e trabalhadores), conexão di
 | RNF-002 | comparação de salário com vagas semelhantes      | Alta     |
 | RNF-003 | Mapa interativo de vagas      | Media     |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
-## Projeto de Interface
-
-Artefatos relacionados com a interface e a interacão do usuário na proposta de solução.
 
 ### Wireframes
 
@@ -158,7 +144,6 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 ![User Flow](user_flow.png)
 >>>>>>> dcd5e5eeb5e085c2492c413cd7e5c7ae861aa2be
 
-![userflow](images/userflow.jpeg)
 
 
 ### Protótipo Interativo
